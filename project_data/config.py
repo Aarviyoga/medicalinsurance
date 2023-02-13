@@ -1,0 +1,2 @@
+model_file_path = r"C:\Users\rupal\OneDrive\Desktop\practice\medical_insurance\project_data\Linear_Model.pkl"
+json_file_path = r"C:\Users\rupal\OneDrive\Desktop\practice\medical_insurance\project_data\Project_data.json"
